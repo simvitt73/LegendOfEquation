@@ -1,1 +1,1 @@
-# LegendOfEquation
+# Legend of Equation
